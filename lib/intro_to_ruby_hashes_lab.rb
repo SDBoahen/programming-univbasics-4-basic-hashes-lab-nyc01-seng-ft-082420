@@ -1,11 +1,8 @@
 
 
 # return an empty hash
-def new_hash
-
-  Hash.new
-  
-end
+def  new_hash
+     Hash.new  end
 
 
 
