@@ -7,7 +7,7 @@ def  new_hash
 
 # return a valid hash with any key/value pair of your choice
 def my_hash
-
+    { fav_color: }
 end
 
 
