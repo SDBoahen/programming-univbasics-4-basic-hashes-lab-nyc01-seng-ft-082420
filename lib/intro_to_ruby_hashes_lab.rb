@@ -3,7 +3,7 @@
 # return an empty hash
 def new_hash
 
-  
+  New
   
 end
 
